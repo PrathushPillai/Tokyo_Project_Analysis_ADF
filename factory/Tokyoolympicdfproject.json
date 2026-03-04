@@ -1,0 +1,9 @@
+{
+	"name": "Tokyoolympicdfproject",
+	"location": "westus3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1017f0c2-72fa-48fa-a2fc-d349a57faebd",
+		"tenantId": "a8eec281-aaa3-4dae-ac9b-9a398b9215e7"
+	}
+}
